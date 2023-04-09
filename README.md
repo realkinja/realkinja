@@ -1,10 +1,7 @@
-# Hello, world! 👋
-Hello! I'm Kinja (@realkinja), I'm someone that usually devs in Python, looking to learn Kotlin and Rust.
-You can contact me via my email, **kinja@duck.com.**
+## Hello, world! :wave: 
+**My name's Kinja! You can contact me via my [email](mailto:kinja@duck.com).**
+- ```Mediocre UI/UX Designer.``` 
+- ```Know Python, Batch and some Shell scripting.```
+- ```Currently learning Rust & Kotlin.```<br />
 
-## My top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkinja&layout=compact&border_color=E5289E&theme=synthwave)
-
-## My Github Statistics
-![](https://github-readme-stats.vercel.app/api?username=realkinja&show_icons=true&count_private=true&border_color=E5289E&theme=synthwave)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realkinja&layout=compact&bg_color=left,0a0e12,2b74a5&border_color=2b74a5&text_color=fffff0&title_color=359df8)
